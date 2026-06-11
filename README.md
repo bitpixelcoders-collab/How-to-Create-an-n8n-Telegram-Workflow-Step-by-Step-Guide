@@ -58,7 +58,6 @@ This approach helps reduce manual tasks and improve response times.
 **AI Customer Support**
 
 Build bots that:
-
       Answer questions
       Route requests
       Escalate conversations
@@ -66,7 +65,6 @@ Build bots that:
 **Lead Collection**
 
 Capture:
-
       Names
       Emails
       User details
@@ -76,7 +74,6 @@ Then push information into business systems.
 **Internal Team Automation**
 
 Examples:
-
     Approvals
     Notifications
     Reporting
@@ -93,7 +90,6 @@ Production workflows typically include:
 Starts workflow execution.
 
 Examples:
-
     Telegram messages
     Commands
     Button interactions
@@ -101,22 +97,19 @@ Examples:
 **Processing Layer**
 
 Handles:
-
     Validation
     Business rules
     Routing
     AI Layer
 
 Optional intelligence layer for:
-
-    Responses
-    Classification
-    Automation
+          Responses
+          Classification
+          Automation
     
 **Data Layer**
 
 Stores:
-
     User information
     Logs
     CRM records
