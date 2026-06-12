@@ -1,4 +1,4 @@
-# **How-to-Create-an-n8n-Telegram-Workflow-Step-by-Step-Guide**
+# **Complete Guide to Building Telegram Automation with n8n in 2026**
 
 Telegram + n8n is one of the fastest ways to launch automation without building a full application. Whether you want to automate support, collect leads, create AI assistants, or send notifications, n8n gives you a visual workflow builder that connects Telegram with hundreds of tools and services.
 
